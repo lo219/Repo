@@ -1,7 +1,6 @@
 # List of items to shop for
 
 eggs
-ham
 cheese
 milk
 hot dogs
