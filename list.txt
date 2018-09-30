@@ -4,4 +4,5 @@ eggs
 ham
 cheese
 milk
+hot dogs
 bread
