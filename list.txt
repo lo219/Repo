@@ -1,6 +1,6 @@
 # List of items to shop for
 orange juice
-eggs
+eggs (clone favourite)
 cheese
 milk
 hot dogs
